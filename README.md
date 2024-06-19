@@ -38,5 +38,5 @@ This project is a simple Windows Forms application developed using Visual Basic 
 ### Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/user-data-collection-form.git
-cd user-data-collection-form
+git clone https://github.com/Pv200/Slidely-AI-Task-2-Frontend-Part
+cd Slidely-AI-Task-2-Frontend-Part
