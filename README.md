@@ -14,11 +14,19 @@ This project is a simple Windows Forms application developed using Visual Basic 
 
 ## Screenshots
 
-### Main Form
-![Main Form](screenshots/main_form.png)
+### Front Page 
+![front page](https://github.com/Pv200/Slidely-AI-Task-2-Frontend-Part/assets/117562053/8a3e603a-bcb4-46fd-bf96-463604f200d9)
 
-### Data Display Form
-![Data Display Form](screenshots/data_display_form.png)
+### Create Submission form (Ctrl + C)
+![Main Form](https://github.com/Pv200/Slidely-AI-Task-2-Frontend-Part/assets/117562053/da36d3d0-adcc-4a8a-94c7-39df08abed55)
+
+
+### View Submission Page (Ctrl + V)
+![Data Display Form](https://github.com/Pv200/Slidely-AI-Task-2-Frontend-Part/assets/117562053/4e69fa16-b88d-421e-b4d2-82edb69c3df9)
+
+- We can Fetch data and retrive all indexs of submission array one by one by just "Ctrl + N " key.
+- We can Edit data through "Ctrl + E" key.
+- We can Delete data through "Ctrl + D" key.
 
 ## Prerequisites
 
