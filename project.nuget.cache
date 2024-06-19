@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KosXE9AjR2af/VWXF0em4TUODDYdFYnMDIyXqo2qkweNbZ3jXej13tQ4HFmQ5TL9oNiloKN+8MHaF33by/duMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\verma\\source\\repos\\Formapp\\Formapp.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\verma\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
