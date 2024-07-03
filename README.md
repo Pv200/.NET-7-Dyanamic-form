@@ -1,9 +1,12 @@
-# Slidely-AI-Task-2-Frontend-Part
+# .NET-7-Dyanamic-form
 # User Data Collection Form
 
 ## Overview
 
 This project is a simple Windows Forms application developed using Visual Basic (.NET Framework). The application collects data from the user through a form and displays the collected data in another window. It is a great example for beginners to understand the basics of form handling, HTTP requests, and JSON parsing in a Windows Forms application.
+
+### Backend Part
+Navigate through this link : [.NET-7-Dyanamic-form-Backend-Part](https://github.com/Pv200/.NET-7-Dyanamic-form-Backend-Part)
 
 ## Features
 
